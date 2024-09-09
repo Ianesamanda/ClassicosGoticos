@@ -3,6 +3,8 @@
 ## Descrição
 Este projeto web foi desenvolvido durante a imersão Dev com Google Gemini, oferecida pela Alura. É uma aplicação simples que permite aos usuários pesquisar por títulos de livros clássicos da literatura gótica. A aplicação utiliza HTML, CSS e JavaScript para criar uma interface intuitiva e oferecer uma experiência de pesquisa rápida e eficiente.
 
+**Acesse a aplicação:** https://classicos-goticos.vercel.app/
+
 ## Funcionalidades
 * **Pesquisa por palavras-chave:** Os usuários podem digitar palavras-chave em um campo de pesquisa para encontrar livros relevantes.
 * **Resultados dinâmicos:** A lista de resultados é atualizada em tempo real à medida que o usuário digita, sem a necessidade de recarregar a página.
